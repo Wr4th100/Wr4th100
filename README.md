@@ -22,7 +22,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
-
+![Profile views counter](https://komarev.com/ghpvc/?username=Wr4th100&&style=flat-square)  
 
 
 ### Glad to see you here!  
@@ -120,7 +120,7 @@ I'm a full stack developer, app developer, AR/VR developer. Building new stuff i
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Wr4th100&&style=flat-square)  
+
   
 
 <br/>  
