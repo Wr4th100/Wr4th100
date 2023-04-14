@@ -3,7 +3,7 @@
 
 <img src="header.png" alt="header" />
 
-## Hey 👋, I'm Roshan Jagadish!  
+<!-- ## Hey 👋, I'm Roshan Jagadish!   -->
   
 
 
