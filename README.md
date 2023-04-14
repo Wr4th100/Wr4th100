@@ -1,6 +1,6 @@
+<img src="header.png" alt="header" />
 <div id="header" align="center">
-  <h1>Roshan Jagadish </h1>
-  <h3> <code> Tech geek, developer ✨ </code></h3> 
+  <h3> <code> Tech geek, Developer ✨ </code></h3> 
 </div>
 <div id="badges" align="center" style="margin:4px">
   <a href="https://www.linkedin.com/in/roshan-jagadish/">
