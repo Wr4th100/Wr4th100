@@ -104,11 +104,11 @@ I'm a full stack developer, app developer, AR/VR developer. Building new stuff i
 
 
 ## Github Stats  
-<table style="border:none;overflow-y:hidden;"><tr><td valign="top" width="60%">
+<table style="border:none;overflow-y:hidden;"><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Wr4th100&show_icons=true&count_private=true&hide_border=true?" align="left" style="width: 100%" />
 
-</td><td valign="top" width="70%">
+</td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wr4th100&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
