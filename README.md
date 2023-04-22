@@ -35,7 +35,7 @@ I'm a full stack developer, app developer, AR/VR developer. Building new stuff i
 <br/>  
 
 
-## Rapidfire  
+## Rapidfire 🔥
 <table style="border:none;"><tr style="border:none;"><td style="border:none;" valign="top" width="70%">
 
 - ### 🔭 I’m currently working on [finanxe](https://github.com/Wr4th100/finanxe)  
@@ -67,7 +67,7 @@ I'm a full stack developer, app developer, AR/VR developer. Building new stuff i
 <br/>  
 
 
-## Languages and Tools  
+## Languages and Tools 💻
 <div align="center" style="background-color: white">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -103,7 +103,7 @@ I'm a full stack developer, app developer, AR/VR developer. Building new stuff i
 <br/>  
 
 
-## Github Stats  
+## Github Stats 📈
 <table style="border:none;overflow-y:hidden;"><tr><td valign="top" width="58%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Wr4th100&show_icons=true&count_private=true&hide_border=true?" align="left" style="width: 100%" />
@@ -116,16 +116,14 @@ I'm a full stack developer, app developer, AR/VR developer. Building new stuff i
 
 <br/>  
 
-  
+## Github Contributions 😎
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wr4th100/Wr4th100/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wr4th100/Wr4th100/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wr4th100/Wr4th100/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br/>  
 
-
-  
-
-<br/>  
-
-
-<br />
 
 ----
