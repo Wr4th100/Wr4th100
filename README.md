@@ -25,45 +25,6 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=Wr4th100&&style=flat-square)  
 
 
-### Glad to see you here!  
-I'm a full stack developer, app developer, AR/VR developer. Building new stuff is always a goal for me.
-
-
-  
-  
-
-<br/>  
-
-
-## Rapidfire 🔥
-<table style="border:none;"><tr style="border:none;"><td style="border:none;" valign="top" width="70%">
-
-- ### 🔭 I’m currently working on [finanxe](https://github.com/Wr4th100/finanxe)  
-  
-
-- ### 🌱 I’m currently learning Plaid and T3 Stack  
-  
-
-- ### ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ### ⚡ Fun fact: I am a functioning member in society  
-
-
-- ### 📱 Developing my skills in React Native
- 
-
-- ### 🎮 Games are lub 
-
-</td><td style="border:none;" valign="top" width="30%" >
-
-<div align="center">
-<img src="https://api.daily.dev/devcards/e2f3f2c9a2d24ef59453a6a4ed1a0161.png?r=xwl" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
 <br/>  
 
 
@@ -116,14 +77,3 @@ I'm a full stack developer, app developer, AR/VR developer. Building new stuff i
 
 <br/>  
 
-## Github Contributions 😎
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wr4th100/Wr4th100/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wr4th100/Wr4th100/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wr4th100/Wr4th100/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/>  
-
-
-----
